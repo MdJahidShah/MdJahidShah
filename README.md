@@ -10,8 +10,7 @@ I'm a WordPress developer who loves designing and traveling.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidshah&layout=compact&theme=radical)
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdjahidshah&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdjahidshah&theme=radical&hide_border=true)
 
 ## 📈 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdjahidshah&theme=radical)
