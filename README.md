@@ -12,16 +12,16 @@ As a WordPress developer, I have a passion for creating and optimizing websites.
 ### 🔐 Cybersecurity Enthusiast
 My fascination with cybersecurity drives me to continuously learn and adapt to the latest trends and technologies in the field. I believe in proactive measures and thorough testing to ensure digital environments are secure.
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 ![Jahid Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical)
 
-## 📈 GitHub Streak
+## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdjahidshah&theme=radical&hide_border=true)
 
-## 📈 Trophies
+## 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdjahidshah&theme=radical)
 
-## 📈 Top Languages
+## 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidshah&layout=compact&theme=radical)
 
 ## 🛠 Skills
@@ -90,7 +90,7 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Follow Me & 📧 Contact Me
 
 <p align="left">
   <a href="https://facebook.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
