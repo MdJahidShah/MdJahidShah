@@ -95,10 +95,10 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
 <p align="left">
   <a href="https://facebook.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
   <a href="https://twitter.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/md-jahid-shah-js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/mdjahidshah0/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://github.com/mdjahidshah" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://youtube.com/yourchannel" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
   <a href="mailto:mdjahidshah65@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a>
 </p>
 
