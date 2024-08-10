@@ -89,6 +89,32 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
 </table>
 
 ---
+## <img src="https://img.icons8.com/ios-filled/50/000000/services.png" alt="Services" width="30"/> Services
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <img src="https://img.icons8.com/color/48/000000/bug.png" alt="WordPress Malware Removal"/><br />
+        <b>WordPress Malware Removal</b>
+      </td>
+      <td align="center" width="200px">
+        <img src="https://img.icons8.com/color/48/000000/cloud-computing.png" alt="WordPress Migration"/><br />
+        <b>WordPress Migration</b>
+      </td>
+      <td align="center" width="200px">
+        <img src="https://img.icons8.com/color/48/000000/fix.png" alt="WordPress Error Fixing"/><br />
+        <b>WordPress Error Fixing</b>
+      </td>
+      <td align="center" width="200px">
+        <img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Penetration Testing"/><br />
+        <b>Penetration Testing</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌐 Follow Me & 📧 Contact Me
 
