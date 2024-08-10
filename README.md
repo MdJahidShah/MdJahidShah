@@ -93,6 +93,7 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
 ## 🌐 Follow Me & 📧 Contact Me
 
 <p align="left">
+  <a href="https://www.fiverr.com/jahidshahwp" target="_blank"><img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr"/></a>
   <a href="https://facebook.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
   <a href="https://twitter.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/md-jahid-shah-js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
