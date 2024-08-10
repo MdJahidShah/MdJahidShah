@@ -93,7 +93,7 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
   <table>
     <tr>
       <td align="center" width="200px">
-        <img src="https://img.icons8.com/color/48/000000/bug.png" alt="WordPress Malware Removal"/><br />
+        <a href="https://www.upwork.com/services/product/development-it-wordpress-virus-removal-recover-hacked-website-provide-fast-fix-solutions-1822222983601510503?ref=project_share"><img src="https://img.icons8.com/color/48/000000/bug.png" alt="WordPress Malware Removal"/></a><br />
         <b>WordPress Malware Removal</b>
       </td>
       <td align="center" width="200px">
@@ -115,6 +115,7 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
 ## 🌐 Follow Me & 📧 Contact Me
 
 <p align="left">
+  <a href="https://www.upwork.com/freelancers/~017d4f7b9e14c3a1e0?mp_source=share" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" alt="Upwork"/></a>
   <a href="https://www.fiverr.com/jahidshahwp" target="_blank"><img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr"/></a>
   <a href="https://facebook.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
   <a href="https://twitter.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
