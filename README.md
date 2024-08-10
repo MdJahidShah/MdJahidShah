@@ -88,10 +88,7 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
   </tr>
 </table>
 
----
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/services.png" alt="Services" width="30"/> Services
----
-
 <div align="center">
   <table>
     <tr>
