@@ -78,19 +78,18 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios/50/000000/hacker.png" width="48" height="48" alt="Penetration Tester" />
+      <img src="https://img.icons8.com/ios/50/ffffff/hacker.png" width="48" height="48" alt="Penetration Tester" />
       <br>Penetration Tester
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/000000/shield.png" width="48" height="48" alt="Website Security" />
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/shield.png" width="48" height="48" alt="Website Security" />
       <br>Website Security
     </td>
   </tr>
 </table>
 
 ---
-## <img src="https://img.icons8.com/ios-filled/50/000000/services.png" alt="Services" width="30"/> Services
-
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/services.png" alt="Services" width="30"/> Services
 ---
 
 <div align="center">
@@ -101,11 +100,11 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
         <b>WordPress Malware Removal</b>
       </td>
       <td align="center" width="200px">
-        <img src="https://img.icons8.com/color/48/000000/cloud-computing.png" alt="WordPress Migration"/><br />
+        <img src="https://img.icons8.com/fluency/48/000000/cloud-sync.png" alt="WordPress Migration"/><br />
         <b>WordPress Migration</b>
       </td>
       <td align="center" width="200px">
-        <img src="https://img.icons8.com/color/48/000000/fix.png" alt="WordPress Error Fixing"/><br />
+        <img src="https://img.icons8.com/color/48/000000/maintenance.png" alt="WordPress Error Fixing"/><br />
         <b>WordPress Error Fixing</b>
       </td>
       <td align="center" width="200px">
