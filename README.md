@@ -117,8 +117,8 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~017d4f7b9e14c3a1e0?mp_source=share" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" alt="Upwork"/></a>
   <a href="https://www.fiverr.com/jahidshahwp" target="_blank"><img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr"/></a>
-  <a href="https://facebook.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://twitter.com/JahidShah0" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
+  <a href="https://facebook.com/JahidShahWP" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
+  <a href="https://twitter.com/JahidShahwp" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/md-jahid-shah-js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/mdjahidshah0/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://github.com/mdjahidshah" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/></a>
