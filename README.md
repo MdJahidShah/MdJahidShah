@@ -114,7 +114,7 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
 
 ## 🌐 Follow Me & 📧 Contact Me
 
-<p align="left">
+<p text-align="left">
   <a href="https://www.upwork.com/freelancers/~017d4f7b9e14c3a1e0?mp_source=share" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" alt="Upwork"/></a>
   <a href="https://www.fiverr.com/idealistb" target="_blank"><img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr"/></a>
   <a href="https://facebook.com/JahidShahWP" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
