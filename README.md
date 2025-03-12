@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td align="center" width="300px">
-        <h3>🔍 Penetration Tester</h3><br />
+        <h3>🔍 <br>Penetration Tester</h3><br />
         <p>I specialize in identifying vulnerabilities and strengthening security postures. My experience in ethical hacking, vulnerability assessments, and penetration testing helps organizations protect their assets and data from cyber threats.</p>
       </td>
       <td align="center" width="300px">
