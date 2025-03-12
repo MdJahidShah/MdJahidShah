@@ -31,7 +31,7 @@
     <tr>
       <td align="center" width="300px">
         <h3>📊 GitHub Stats</h3>
-        ![Jahid Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical)
+        <span><img src="https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical"></span>
       </td>
     </tr>
   </table>
