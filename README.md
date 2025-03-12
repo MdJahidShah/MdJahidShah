@@ -18,10 +18,6 @@
         <a href=""><img src="" alt=""/></a><br />
         <b></b>
       </td>
-      <td align="center" width="200px">
-        <a href=""><img src="" alt=""/></a><br />
-        <b></b>
-      </td>
       <!--td align="center" width="200px">
         <a href=""><img src="" alt=""/></a><br />
         <b></b>
