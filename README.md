@@ -112,6 +112,35 @@ My fascination with cybersecurity drives me to continuously learn and adapt to t
   </table>
 </div>
 
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" alt="Recent Projects" width="30"/> Recent Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td>
+      <td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td>
+      <td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td>
+      <td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td>
+      <!--td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td-->
+    </tr>
+  </table>
+</div>
+
 ## 🌐 Follow Me & 📧 Contact Me
 
 <p text-align="left">
