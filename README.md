@@ -3,8 +3,32 @@
 ## 🚀 About Me
 👋 Hi there! I'm Jahid Shah, a dedicated **Penetration Tester, Passionate WordPress Developer, and Cybersecurity Enthusiast**. With a solid background in Information Technology and a keen interest in cybersecurity, I strive to enhance digital security and build robust web solutions.
 
-### 🔍 Penetration Tester
-I specialize in identifying vulnerabilities and strengthening security postures. My experience in ethical hacking, vulnerability assessments, and penetration testing helps organizations protect their assets and data from cyber threats.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <h3>🔍 Penetration Tester</h3><br />
+        <p>I specialize in identifying vulnerabilities and strengthening security postures. My experience in ethical hacking, vulnerability assessments, and penetration testing helps organizations protect their assets and data from cyber threats.</p>
+      </td>
+      <td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td>
+      <td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td>
+      <td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td>
+      <!--td align="center" width="200px">
+        <a href=""><img src="" alt=""/></a><br />
+        <b></b>
+      </td-->
+    </tr>
+  </table>
+</div>
 
 ### 🖥️ WordPress Developer
 As a WordPress developer, I have a passion for creating and optimizing websites. Whether it's building from scratch, removing malware, or enhancing security, I enjoy every aspect of WordPress development and maintenance.
