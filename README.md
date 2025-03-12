@@ -52,8 +52,16 @@
   </table>
 </div>
 
-## 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidshah&layout=compact&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏆 Trophies</h3>
+        <span><img src="https://github-profile-trophy.vercel.app/?username=mdjahidshah&theme=radical"></span>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdjahidshah&theme=radical)
