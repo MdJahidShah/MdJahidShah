@@ -56,16 +56,16 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🏆 Trophies</h3>
+        <h2>🏆 Trophies</h2>
         <span><img src="https://github-profile-trophy.vercel.app/?username=mdjahidshah&theme=radical"></span>
       </td>
     </tr>
   </table>
 </div>
 
-## 🏆 Trophies
+<!--## 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdjahidshah&theme=radical)
-
+-->
 
 
 ## 🛠 Skills
