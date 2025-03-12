@@ -33,6 +33,10 @@
         <h3>📊 GitHub Stats</h3>
         <span><img src="https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical"></span>
       </td>
+      <td align="center" width="50%">
+        <h3>🔥 GitHub Streak</h3>
+        <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjahidshah&theme=radical&hide_border=true"></span>
+      </td>
     </tr>
   </table>
 </div>
