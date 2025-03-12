@@ -7,31 +7,24 @@
   <table>
     <tr>
       <td align="center" width="300px">
-        <h3><span style="display: inline-flex;justify-content: center;align-items: center;width: 35px;height: 35px;background-color: white;border-radius: 50%;border: 2px solid white;">🔍</span><br /><br />Penetration Tester</h3>
+        <h3><span>🔍</span><br /><br />Penetration Tester</h3>
         <p>I specialize in identifying vulnerabilities and strengthening security postures. My experience in ethical hacking, vulnerability assessments, and penetration testing helps organizations protect their assets and data from cyber threats.</p>
       </td>
       <td align="center" width="300px">
-        <a href=""><img src="" alt=""/></a><br />
-        <b></b>
+        <h3><span>🖥️</span><br /><br />WordPress Developer</h3>
+        <p>As a WordPress developer, I have a passion for creating and optimizing websites. Whether it's building from scratch, removing malware, or enhancing security, I enjoy every aspect of WordPress development and maintenance.</p>
       </td>
       <td align="center" width="300px">
-        <a href=""><img src="" alt=""/></a><br />
-        <b></b>
+        <h3><span>🔐</span><br /><br />Cybersecurity Enthusiast</h3>
+        <p>My fascination with cybersecurity drives me to continuously learn and adapt to the latest trends and technologies in the field. I believe in proactive measures and thorough testing to ensure digital environments are secure.</p>
       </td>
-      <!--td align="center" width="200px">
-        <a href=""><img src="" alt=""/></a><br />
-        <b></b>
+      <!--td align="center" width="300px">
+        <h3><span>🔍</span><br /><br /></h3>
+        <p></p>
       </td-->
     </tr>
   </table>
 </div>
-
-### 🖥️ WordPress Developer
-As a WordPress developer, I have a passion for creating and optimizing websites. Whether it's building from scratch, removing malware, or enhancing security, I enjoy every aspect of WordPress development and maintenance.
-
-### 🔐 Cybersecurity Enthusiast
-My fascination with cybersecurity drives me to continuously learn and adapt to the latest trends and technologies in the field. I believe in proactive measures and thorough testing to ensure digital environments are secure.
-
 ## 📊 GitHub Stats
 ![Jahid Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical)
 
