@@ -26,6 +26,17 @@
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300px">
+        <h3>📊 GitHub Stats</h3>
+        ![Jahid Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical)
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 GitHub Stats
 ![Jahid Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical)
 
