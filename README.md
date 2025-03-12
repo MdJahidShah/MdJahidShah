@@ -41,12 +41,6 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
-![Jahid Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdjahidshah&theme=radical&hide_border=true)
-
 ## 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdjahidshah&theme=radical)
 
