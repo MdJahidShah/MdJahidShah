@@ -29,7 +29,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="300px">
+      <td align="center" width="50%">
         <h3>📊 GitHub Stats</h3>
         <span><img src="https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical"></span>
       </td>
