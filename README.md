@@ -35,7 +35,7 @@
       </td>
       <td align="center" width="50%">
         <h3>🔥 GitHub Streak</h3>
-        <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjahidshah&theme=radical&hide_border=true"></span>
+        <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjahidshah&theme=radical&hide_border=true/"></span>
       </td>
     </tr>
   </table>
