@@ -163,7 +163,7 @@
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" alt="Recent Projects" width="30"/> Recent Projects
 
 <div align="center">
-  <h3>WordPress Development</p>
+  <h3>WordPress Development</h3>
   <table>
       <tr>
       <td align="center" width="200px">
@@ -192,7 +192,7 @@
       </td>
     </tr> <br />
   </table>
-  <h3>HTML Design<h3>
+  <h3>HTML Design</h3>
   <table>
     <tr>
       <td align="center" width="200px">
