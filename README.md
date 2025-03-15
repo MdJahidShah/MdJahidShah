@@ -72,6 +72,36 @@
 <table>
   <tr>
     <td align="center" width="120">
+      <img src="https://img.icons8.com/ios/50/ffffff/hacker.png" width="48" height="48" alt="Penetration Tester" />
+      <br>Penetration Tester
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/shield.png" width="48" height="48" alt="Website Security" />
+      <br>Website Security
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/github.png" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+     <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React.js" />
+      <br>React.js
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
@@ -88,20 +118,6 @@
       <br>Bootstrap
     </td>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="48" height="48" alt="Vue.js" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React.js" />
-      <br>React.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/php.png" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
@@ -112,22 +128,6 @@
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
       <br>C++
-    </td>
-     <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-   <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/github.png" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/ios/50/ffffff/hacker.png" width="48" height="48" alt="Penetration Tester" />
-      <br>Penetration Tester
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/shield.png" width="48" height="48" alt="Website Security" />
-      <br>Website Security
     </td>
   </tr>
 </table>
