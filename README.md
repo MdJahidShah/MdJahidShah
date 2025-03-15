@@ -72,11 +72,11 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/ios/50/ffffff/hacker.png" width="48" height="48" alt="Penetration Tester" />
+      <img src="https://img.icons8.com/ios/50/000000/hacker.png" width="48" height="48" alt="Penetration Tester" />
       <br>Penetration Tester
     </td>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/shield.png" width="48" height="48" alt="Website Security" />
+      <img src="https://img.icons8.com/ios-filled/50/000000/shield.png" width="48" height="48" alt="Website Security" />
       <br>Website Security
     </td>
     <td align="center" width="120">
