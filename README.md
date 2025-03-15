@@ -178,10 +178,10 @@
         <a href="https://mdjahidshah.github.io/gaming-ecommerce-template/">Live Preview</a> | <a href="https://github.com/MdJahidShah/gaming-ecommerce-template">Source Code</a><br />
       </td>
       <td align="center" width="200px">
-        <img src="" width="auto" height="200px" alt=""/><br />
-        <b></b><br />
-        <p></p><br />
-        <a href="">Live Preview</a> | <a href="">Source Code</a><br />
+        <img src="https://mdjahidshah.github.io/email-templates-for-auto-services/email-templates-for-auto-services.png" width="auto" height="200px" alt="Email Templates for Auto Services"/><br />
+        <b>Email Templates for Auto Services</b><br />
+        <p>This is a email template tailored for auto service businesses. Created...</p><br />
+        <a href="https://mdjahidshah.github.io/email-templates-for-auto-services/">Live Preview</a> | <a href="https://github.com/MdJahidShah/email-templates-for-auto-services/">Source Code</a><br />
       </td>
       <td align="center" width="200px">
         <img src="" width="auto" height="200px" alt=""/><br />
