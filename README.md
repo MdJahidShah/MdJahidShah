@@ -71,61 +71,61 @@
 ## 🛠 Skills
 <table>
   <tr>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="48" height="48" alt="WordPress" />
       <br>WordPress
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="48" height="48" alt="Vue.js" />
       <br>Vue.js
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React.js" />
       <br>React.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/php.png" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
       <br>C++
     </td>
-     <td align="center" width="105">
+     <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-   <td align="center" width="105">
+   <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/github.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/ios/50/ffffff/hacker.png" width="48" height="48" alt="Penetration Tester" />
       <br>Penetration Tester
     </td>
-    <td align="center" width="105">
+    <td align="center" width="120">
       <img src="https://img.icons8.com/ios-filled/50/ffffff/shield.png" width="48" height="48" alt="Website Security" />
       <br>Website Security
     </td>
@@ -137,7 +137,7 @@
   <table>
     <tr>
       <td align="center" width="200px">
-        <a href="https://www.upwork.com/services/product/development-it-wordpress-virus-removal-recover-hacked-website-provide-fast-fix-solutions-1822222983601510503?ref=project_share"><img src="https://img.icons8.com/color/48/000000/bug.png" alt="WordPress Malware Removal"/></a><br />
+        <a href="https://www.upwork.com/services/product/development-it-wordpress-virus-removal-recover-hacked-website-provide-fast-fix-solutions-1822222983601512003?ref=project_share"><img src="https://img.icons8.com/color/48/000000/bug.png" alt="WordPress Malware Removal"/></a><br />
         <b>WordPress Malware Removal</b>
       </td>
       <td align="center" width="200px">
