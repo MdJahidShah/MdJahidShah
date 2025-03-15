@@ -163,8 +163,8 @@
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" alt="Recent Projects" width="30"/> Recent Projects
 
 <div align="center">
+  <h3>WordPress Development</p>
   <table>
-      <h3>WordPress Development</p>
       <tr>
       <td align="center" width="200px">
         <img src="https://mdjahidshah.github.io/Responsive-London-Law-Farm-HTML-to-WordPress-Using-Elementor/images/London-Law-Farm-Full-View.png" width="auto" height="200px" alt="Responsive London Law Farm HTML to WordPress Using Elementor"/><br />
@@ -191,7 +191,9 @@
         <a href="">Live Preview</a> | <a href="">Source Code</a><br />
       </td>
     </tr> <br />
-    <h3>HTML Design<h3>
+  </table>
+  <h3>HTML Design<h3>
+  <table>
     <tr>
       <td align="center" width="200px">
         <img src="https://github.com/MdJahidShah/Tradella-International-Home-Page/blob/main/tradella-international-Home-page.jpg" width="auto" height="200px" alt="Tradella International Home Page"/><br />
