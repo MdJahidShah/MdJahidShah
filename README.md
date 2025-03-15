@@ -169,7 +169,7 @@
         <img src="https://github.com/MdJahidShah/Tradella-International-Home-Page/blob/main/tradella-international-Home-page.jpg" width="auto" height="200px" alt="Tradella International Home Page"/><br />
         <b>Tradella International Home Page</b><br />
         <p>PSD to HTML template using Html, Css, JavaScript for a Job Interview.</p><br />
-        <a href="https://mdjahidshah.github.io/Tradella-International-Home-Page/">Live Preview</a><br />
+        <a href="https://mdjahidshah.github.io/Tradella-International-Home-Page/">Live Preview</a> | <a href="https://github.com/MdJahidShah/Tradella-International-Home-Page">Source Code</a><br />
       </td>
       <td align="center" width="200px">
         <a href=""><img src="" alt=""/></a><br />
