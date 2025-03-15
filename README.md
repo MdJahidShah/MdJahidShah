@@ -177,31 +177,33 @@
         <p>Gaming Store Website Template is a modern, responsive, and customizable..</p><br />
         <a href="https://mdjahidshah.github.io/gaming-ecommerce-template/">Live Preview</a> | <a href="https://github.com/MdJahidShah/gaming-ecommerce-template">Source Code</a><br />
       </td>
-            <td align="center" width="200px">
+      <td align="center" width="200px">
         <img src="" width="auto" height="200px" alt=""/><br />
         <b></b><br />
         <p></p><br />
         <a href="">Live Preview</a> | <a href="">Source Code</a><br />
       </td>
-            <td align="center" width="200px">
+      <td align="center" width="200px">
         <img src="" width="auto" height="200px" alt=""/><br />
         <b></b><br />
         <p></p><br />
         <a href="">Live Preview</a> | <a href="">Source Code</a><br />
       </td>
-            <td align="center" width="200px">
+    </tr>
+    <tr>
+      <td align="center" width="200px">
         <img src="" width="auto" height="200px" alt=""/><br />
         <b></b><br />
         <p></p><br />
         <a href="">Live Preview</a> | <a href="">Source Code</a><br />
       </td>
-            <td align="center" width="200px">
+      <td align="center" width="200px">
         <img src="" width="auto" height="200px" alt=""/><br />
         <b></b><br />
         <p></p><br />
         <a href="">Live Preview</a> | <a href="">Source Code</a><br />
       </td>
-            <td align="center" width="200px">
+      <td align="center" width="200px">
         <img src="" width="auto" height="200px" alt=""/><br />
         <b></b><br />
         <p></p><br />
