@@ -46,7 +46,7 @@
     <tr>
       <td align="center" width="50%">
         <h3>🌐<br/>Top Languages</h3>
-        <span><img src="https://github-readme-stats.vercel.app/api?username=mdjahidshah&show_icons=true&theme=radical"></span>
+        <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidshah&layout=compact&theme=radical"></span>
       </td>
     </tr>
   </table>
