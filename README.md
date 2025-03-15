@@ -152,6 +152,10 @@
         <img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Penetration Testing"/><br />
         <b>Penetration Testing</b>
       </td>
+      <td align="center" width="200px">
+          <img src="https://img.icons8.com/color/48/000000/data-backup.png" alt="Data Recovery"/><br />
+          <b>Data Recovery</b>
+      </td>
     </tr>
   </table>
 </div>
