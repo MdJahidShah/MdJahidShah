@@ -41,10 +41,10 @@
   </table>
 </div>
 
-<div align="center" width="50%">
+<div align="center" width="100%">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="100%">
         <h3>🌐<br/>Top Languages</h3>
         <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidshah&layout=compact&theme=radical"></span>
       </td>
