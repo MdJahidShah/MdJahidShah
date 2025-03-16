@@ -161,7 +161,19 @@
 </div>
 
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" alt="Recent Projects" width="30"/> Recent Projects
-
+<div align="center">
+  <h3>WordPress Bug Fixing and Malware Removal</h3>
+  <table>
+      <tr>
+      <!--td align="center" width="200px">
+        <img src="" width="auto" height="200px" alt=""/><br />
+        <b></b><br />
+        <p>...</p><br />
+        <a href="">Live Preview</a><br />
+      </td -->
+    </tr>
+  </table>
+</div>  
 <div align="center">
   <h3>WordPress Development</h3>
   <table>
