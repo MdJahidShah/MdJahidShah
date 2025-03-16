@@ -1,11 +1,8 @@
-<div align="center">
+# Md. Jahid Shah 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=mdjahidshah)
+**Penetration Tester** | **WordPress Developer**
+## 🚀 About Me
+👋 Hi there! I'm Jahid Shah, a dedicated **Penetration Tester, Passionate WordPress Developer, and Cybersecurity Enthusiast**. With a solid background in Information Technology and a keen interest in cybersecurity, I strive to enhance digital security and build robust web solutions.
 
-<h1> Md. Jahid Shah 👋 | <span>Profile Views: <img src="https://komarev.com/ghpvc/?username=mdjahidshah"></h1>
-<p><b>Penetration Tester</b> | <b>WordPress Developer</b></p>
-<br/ ><br />
-<h2> 🚀 About Me</h2>
-<p>👋 Hi there! I'm Jahid Shah, a dedicated **Penetration Tester, Passionate WordPress Developer, and Cybersecurity Enthusiast**. With a solid background in Information Technology and a keen interest in cybersecurity, I strive to enhance digital security and build robust web solutions.</>
-</div>
 <div align="center">
   <table>
     <tr>
