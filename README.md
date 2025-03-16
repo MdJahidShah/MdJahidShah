@@ -198,7 +198,7 @@
       <td align="center" width="200px">
         <img src="https://github.com/MdJahidShah/Tradella-International-Home-Page/blob/main/tradella-international-Home-page.jpg" width="auto" height="200px" alt="Tradella International Home Page"/><br />
         <b>Tradella International Home Page</b><br />
-        <p>PSD to HTML template using Html, Css, JavaScript for a Job Interview.</p><br />
+        <p>Fully responsive PSD to HTML template using Html, Css, JavaScript for a Job Interview.</p><br />
         <a href="https://mdjahidshah.github.io/Tradella-International-Home-Page/">Live Preview</a> | <a href="https://github.com/MdJahidShah/Tradella-International-Home-Page">Source Code</a><br />
       </td>
       <td align="center" width="200px">
@@ -210,13 +210,13 @@
       <td align="center" width="200px">
         <img src="https://mdjahidshah.github.io/email-templates-for-auto-services/email-templates-for-auto-services.png" width="auto" height="200px" alt="Email Templates for Auto Services"/><br />
         <b>Email Templates for Auto Services</b><br />
-        <p>This is a email template tailored for auto service businesses. Created...</p><br />
+        <p>This is a email template tailored for auto service businesses. Created using HTML, CSS,...</p><br />
         <a href="https://mdjahidshah.github.io/email-templates-for-auto-services/">Live Preview</a> | <a href="https://github.com/MdJahidShah/email-templates-for-auto-services/">Source Code</a><br />
       </td>
       <td align="center" width="200px">
         <img src="https://mdjahidshah.github.io/Freshness-PSD-to-HTML-Template-Design/Freshness-PSD-to-HTML-TEMPLATE-DESIGN.png" width="auto" height="200px" alt="Freshness PSD to HTML Template Design"/><br />
         <b>Freshness PSD to HTML Template Design</b><br />
-        <p>Freshness is a responsive website template converted from a PSD design...</p><br />
+        <p>Freshness is a responsive website template converted from a PSD design using HTML, CSS...</p><br />
         <a href="https://mdjahidshah.github.io/Freshness-PSD-to-HTML-Template-Design/">Live Preview</a> | <a href="https://github.com/MdJahidShah/Freshness-PSD-to-HTML-Template-Design/">Source Code</a><br />
       </td>
       <!--td align="center" width="200px">
