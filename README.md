@@ -249,7 +249,6 @@
   <table>
     <tr>
     <td align="center" width="200px">
-        <img src="https://mdjahidshah.github.io/Mobile-Auto-Shop-HTML-Template-Uisng-Bootstrap/Mobile-Auto-Shop-HTML-Template-Uisng-Bootstrap.png">
         <img src="https://mdjahidshah.github.io/Mobile-Auto-Shop-HTML-Template-Uisng-Bootstrap/Mobile-Auto-Shop-HTML-Template-Uisng-Bootstrap.png" width="auto" height="200px" alt="QuickFix Garage HTML Template Using Bootstrap"/><br />
         <b>Mobile Auto Shop HTML Template Uisng Bootstrap</b><br />
         <p>Mobile Auto Shop is a responsive website car repair service template, it is fully responsive and customizable.</p><br />
