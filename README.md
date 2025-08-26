@@ -176,8 +176,7 @@
           ✅ SEO-friendly structure
         </p>
           <br />
-        <a href="https://mdjahidshah.github.io/aj-square-demo/" target="_blank">Live Preview</a> 
-        <a href="https://github.com/MdJahidShah/aj-square#readme" target="_blank">Documentation</a>
+        <a href="https://mdjahidshah.github.io/aj-square-demo/" target="_blank">Live Preview</a> | <a href="https://github.com/MdJahidShah/aj-square#readme" target="_blank">Documentation</a>
       </td>
     </tr>
   </table>
