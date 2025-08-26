@@ -162,15 +162,23 @@
 
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png" alt="Recent Projects" width="30"/> Recent Projects
 <div align="center">
-  <h3>WordPress Bug Fixing and Malware Removal</h3>
+  <h3>My Developed WordPress Theme</h3>
   <table>
       <tr>
-      <!--td align="center" width="200px">
-        <img src="" width="auto" height="200px" alt=""/><br />
-        <b></b><br />
-        <p>...</p><br />
-        <a href="">Live Preview</a><br />
-      </td -->
+      <td align="center" width="300px">
+        <img src="https://raw.githubusercontent.com/MdJahidShah/aj-square/refs/heads/main/screenshot.png" width="auto" height="250px" alt=""/><br />
+        <b>Responsive Free WordPress Theme</b><br />
+        <p>
+          ✅ Fully responsive design<br>
+          ✅ Compatible with WordPress 6.x<br>
+          ✅ Lightweight & fast loading<br>
+          ✅ Customizable header, footer, and colors<br>
+          ✅ SEO-friendly structure
+        </p>
+          <br />
+        <a href="https://mdjahidshah.github.io/aj-square-demo/" target="_blank">Live Preview</a><br />
+        <a href="https://github.com/MdJahidShah/aj-square#readme" target="_blank">Documentation</a>
+      </td>
     </tr>
   </table>
 </div>  
