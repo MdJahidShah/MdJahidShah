@@ -168,7 +168,7 @@
       <td align="center" width="300px">
         <img src="https://raw.githubusercontent.com/MdJahidShah/aj-square/refs/heads/main/screenshot.png" width="auto" height="250px" alt=""/><br />
         <b>Responsive Free WordPress Theme</b><br />
-        <p>
+        <p align="left;">
           ✅ Fully responsive design<br>
           ✅ Compatible with WordPress 6.x<br>
           ✅ Lightweight & fast loading<br>
@@ -176,7 +176,7 @@
           ✅ SEO-friendly structure
         </p>
           <br />
-        <a href="https://mdjahidshah.github.io/aj-square-demo/" target="_blank">Live Preview</a><br />
+        <a href="https://mdjahidshah.github.io/aj-square-demo/" target="_blank">Live Preview</a> 
         <a href="https://github.com/MdJahidShah/aj-square#readme" target="_blank">Documentation</a>
       </td>
     </tr>
