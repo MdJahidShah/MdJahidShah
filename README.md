@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MdJahidShah/MdJahidShah/refs/heads/main/images/jahidshah-github-banner.png" 
+       alt="Jahid Shah GitHub Banner" 
+       width="100%">
+</p>
+
 # Md. Jahid Shah 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=mdjahidshah)
 **Malware Removal Expert & Frontend Developer, Especially in WordPress Tester**
 ## 🚀 About Me
