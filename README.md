@@ -7,7 +7,7 @@
 <!-- # Md. Jahid Shah 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=mdjahidshah)
 **Malware Removal Expert & Frontend Developer, Especially in WordPress Tester**-->
 ## 🚀 About Me | ![Profile Views](https://komarev.com/ghpvc/?username=mdjahidshah)
-👋 Hi there! I'm Jahid Shah, a dedicated **Penetration Tester, Passionate WordPress Developer, and Cybersecurity Enthusiast**. With a solid background in Information Technology and a keen interest in cybersecurity, I strive to enhance digital security and build robust web solutions.
+👋 Hi there! I'm Jahid Shah, a dedicated **Malware Removal Expert**, **Penetration Tester**, and **Frontend WordPress Developer**. With a solid background in Information Technology and a keen interest in cybersecurity, I strive to enhance digital security and build robust web solutions.
 
 <div align="center">
   <table>
