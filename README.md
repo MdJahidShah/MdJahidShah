@@ -52,7 +52,7 @@ An advanced WordPress schema management plugin that allows website owners and SE
 </p>
 
 ## Connect
-* Portfilio: [https://jahidshah.com/](https://jahidshah.com/)
+* Portfolio: [https://jahidshah.com/](https://jahidshah.com/)
 * Website: [https://businessbridgehub.com/](https://businessbridgehub.com/)
 * Organization: [https://github.com/businessbridgehub](https://github.com/businessbridgehub)
 * WordPress.org: [https://profiles.wordpress.org/jahidshah/](https://profiles.wordpress.org/jahidshah/)
