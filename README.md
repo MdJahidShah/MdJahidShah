@@ -20,21 +20,21 @@ My focus areas include:
 
 ## Current Projects
 
-### BBH Security Insight
-
-Read-only WordPress security auditing and risk analysis plugin.
-
 ### BBH Lite
 
 Lightweight WordPress block theme focused on performance and accessibility.
+
+### BBH Security Insight
+
+Read-only WordPress security auditing and risk analysis plugin.
 
 ### BBH Custom Schema
 
 An advanced WordPress schema management plugin that allows website owners and SEO professionals to add custom JSON-LD schema markup with full control. Includes built-in support for Article, FAQ, and Local Business schema.
 
-### BusinessBridgeHub
+### Business Bridge Hub
 
-Open-source ecosystem focused on WordPress security, performance, and technical SEO.
+[Open-source ecosystem](https://github.com/businessbridgehub/) focused on WordPress security, performance, and technical SEO.
 
 ## Open Source Focus
 
@@ -52,11 +52,11 @@ Open-source ecosystem focused on WordPress security, performance, and technical 
 </p>
 
 ## Connect
-
-* Website: https://businessbridgehub.com
-* Organization: https://github.com/businessbridgehub
-* WordPress.org: https://profiles.wordpress.org/jahidshah/
-* LinkedIn: https://www.linkedin.com/in/jahid-shah-wp/
+* Portfilio: [https://jahidshah.com/](https://jahidshah.com/)
+* Website: [https://businessbridgehub.com/](https://businessbridgehub.com/)
+* Organization: [https://github.com/businessbridgehub](https://github.com/businessbridgehub)
+* WordPress.org: [https://profiles.wordpress.org/jahidshah/](https://profiles.wordpress.org/jahidshah/)
+* LinkedIn: [https://www.linkedin.com/in/jahidshah/](https://www.linkedin.com/in/jahidshah/)
 
 ## Support Open Source
 
