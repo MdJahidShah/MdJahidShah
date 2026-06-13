@@ -6,7 +6,7 @@
 
 # Jahid Shah | ![Profile Views](https://komarev.com/ghpvc/?username=mdjahidshah)
 
-WordPress Security Engineer • Malware Removal Specialist • Open Source Developer
+**• WordPress Security Engineer • Malware Removal Specialist • Open Source Developer**
 
 I build and maintain open-source WordPress security, performance, and SEO tools under the BusinessBridgeHub ecosystem.
 
