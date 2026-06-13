@@ -30,7 +30,7 @@ Lightweight WordPress block theme focused on performance and accessibility.
 
 ### BBH Custom Schema
 
-Advanced structured data generator for WordPress websites.
+An advanced WordPress schema management plugin that allows website owners and SEO professionals to add custom JSON-LD schema markup with full control. Includes built-in support for Article, FAQ, and Local Business schema.
 
 ### BusinessBridgeHub
 
