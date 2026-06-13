@@ -22,15 +22,32 @@ My focus areas include:
 
 ### BBH Lite
 
-Lightweight WordPress block theme focused on performance and accessibility.
+Lightweight WordPress block theme optimized for performance, accessibility, and Core Web Vitals.
+
+* GitHub: https://github.com/businessbridgehub/bbh-lite
+* WordPress.org: https://wordpress.org/themes/bbh-lite/
 
 ### BBH Security Insight
 
 Read-only WordPress security auditing and risk analysis plugin.
 
+* GitHub: https://github.com/businessbridgehub/bbh-security-insight
+* WordPress.org: https://wordpress.org/plugins/bbh-security-insight/
+
 ### BBH Custom Schema
 
 An advanced WordPress schema management plugin that allows website owners and SEO professionals to add custom JSON-LD schema markup with full control. Includes built-in support for Article, FAQ, and Local Business schema.
+
+* GitHub: https://github.com/MdJahidShah/bbh-custom-schema/
+* WordPress.org: https://wordpress.org/plugins/bbh-custom-schema/
+
+### BBH Redirection
+
+Lightweight WordPress redirect manager for creating and managing 301 redirects, tracking 404 errors, and maintaining SEO during URL changes and site migrations.
+
+* GitHub: https://github.com/businessbridgehub/bbh-redirection/
+* WordPress.org: https://wordpress.org/plugins/bbh-redirection/
+
 
 ### Business Bridge Hub
 
