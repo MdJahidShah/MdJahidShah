@@ -80,5 +80,5 @@ Lightweight WordPress redirect manager for creating and managing 301 redirects, 
 If my projects help secure your websites or improve your workflow, consider supporting ongoing development:
 
 <a href="https://www.buymeacoffee.com/jahidshah">
-  <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow" height="35" alt="Buy Me A Coffee">
+  <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow" style="height:35px;" alt="Buy Me A Coffee">
 </a>
