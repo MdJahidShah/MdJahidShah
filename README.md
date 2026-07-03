@@ -24,14 +24,14 @@ My focus areas include:
 
 Lightweight WordPress block theme optimized for performance, accessibility, and Core Web Vitals.
 
-* GitHub: https://github.com/businessbridgehub/bbh-lite
+* GitHub: https://github.com/businessbridgehub/bbh-lite/
 * WordPress.org: https://wordpress.org/themes/bbh-lite/
 
-### BBH Security Insight
+### BridgeHub Security Insight
 
 Read-only WordPress security auditing and risk analysis plugin.
 
-* GitHub: https://github.com/businessbridgehub/bbh-security-insight
+* GitHub: https://github.com/businessbridgehub/bridgehub-security-insight/
 * WordPress.org: https://wordpress.org/plugins/bbh-security-insight/
 
 ### BBH Custom Schema
